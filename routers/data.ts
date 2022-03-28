@@ -1,0 +1,4 @@
+export var books  = [
+    { id: 1, name: 'zhangsan' },
+    { id:2, name:'lisi'}
+  ]
